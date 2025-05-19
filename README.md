@@ -14,7 +14,7 @@
 
 
 ```bash
-git clone https://github.com/your-username/translate-bot.git
+git clone https://github.com/rosetwilight/Telegram-Translate-Bot-Python-3.12.git
 cd translate-bot
 python3 -m venv venv
 source venv/bin/activate
